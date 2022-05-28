@@ -1,2 +1,4 @@
+simple subtractin is done
 c=$((8-4))
 echo $c
+
